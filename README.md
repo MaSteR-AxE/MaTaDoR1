@@ -23,7 +23,7 @@ chmod +x Run
 
 then enter your bot phone number...
 
-launching helper :
+launching api helper :
 
 killall screen
 
@@ -36,7 +36,7 @@ tmux
 screen ./Run autoapi
 
 
-exit terminal then open a new terminal :
+exit terminal then open a new terminal for launching cli-bot :
 
 cd MaTaDoR
 
