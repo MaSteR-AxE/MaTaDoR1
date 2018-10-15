@@ -45,7 +45,7 @@ tmux
 screen ./Run autocli
 
 
-start the api bot with cli-bot account
+start the api bot with cli-bot account in the telegram
 
 if helper turned off the cli-bot speed, will be slow
 
