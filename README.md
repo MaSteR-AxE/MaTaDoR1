@@ -1,17 +1,23 @@
 MaTaDoR 8.3
 
-first... go to @botfather and create a api bot then active inline mode 
+first... go to @botfather and create an api bot then active inline mode 
 fill the true information in :
 MaTaDoR/bot/info-Bot.lua
 
 #in terminal>>
 
 install :
+
 cd MaTaDoR
+
 chmod +x Run
+
 ./Run install
+
 ./Run config
+
 ./Run logcli
+
 
 then enter your bot phone number...
 
